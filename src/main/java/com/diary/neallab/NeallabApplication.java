@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NeallabApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(NeallabApplication.class, args);
-    }
+	public static void main(String[] args) {
+		SpringApplication.run(NeallabApplication.class, args);
+	}
 
 }
